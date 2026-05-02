@@ -1,4 +1,9 @@
-
+<nav>
+  <a href="index.html">Home</a> |
+  <a href="https://vlasakakis.art">Works</a> |
+  <a href="blog.html">Blog</a>
+</nav>
+<hr>
 ## Illustrator · Visual Storyteller · World Builder
 
 ---
