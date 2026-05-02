@@ -1,9 +1,16 @@
-<nav>
-  <a href="index.html">Home</a> |
-  <a href="https://vlasakakis.art">Works</a> |
-  <a href="blog.html">Blog</a>
-</nav>
-<hr>
+<header>
+  <p style="letter-spacing: 2px; opacity: 0.7; font-size: 12px;">
+    STEFANOS VLASAKAKIS — VISUAL STORYTELLER
+  </p>
+
+  <nav>
+    <a href="index.html">HOME</a> ·
+    <a href="worlds.html">WORKS</a> ·
+    <a href="blog.html">BLOG</a>
+  </nav>
+
+  <hr>
+</header>
 ## Illustrator · Visual Storyteller · World Builder
 
 ---
