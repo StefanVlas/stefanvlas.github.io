@@ -23,7 +23,7 @@
 
 ## CURRENT PROJECT
 
-Working on a graphic novel universe combining mythology, memory, and cinematic storytelling.
+Working on a graphic novel universe combining mythology, fantasy, quests and storytelling.
 
 ---
 
