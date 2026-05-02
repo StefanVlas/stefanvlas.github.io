@@ -1,4 +1,3 @@
-# STEFANOS VLASAKAKIS
 
 ## Illustrator · Visual Storyteller · World Builder
 
