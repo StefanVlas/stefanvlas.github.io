@@ -6,4 +6,4 @@ Illustrator / Visual Storyteller
 ## Links
 
 👉 [Blog](blog.html)  
-👉 [Portfolio](index.html)
+👉 [Portfolio](https://vlasakakis.art/.html)
