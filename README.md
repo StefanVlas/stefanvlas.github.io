@@ -10,14 +10,11 @@
 
 ## ENTER
 
-🖼️ **Portfolio**  
+🖼️ **Website - Portfolio**  
 → [View Selected Works](https://vlasakakis.art)
 
 📖 **Blog / Process**  
 → [Read my Blog](blog/html)
-
-🌐 **Main Website**  
-→ [vlasakakis.art](https://vlasakakis.art)
 
 ---
 
