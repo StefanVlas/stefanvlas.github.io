@@ -14,7 +14,7 @@
 → [View Selected Works](https://vlasakakis.art)
 
 📖 **Blog / Process**  
-→ [Read my Blog](blog/html)
+→ [Read my Blog](blog.html)
 
 ---
 
