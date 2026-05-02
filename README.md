@@ -1,9 +1,33 @@
-storyteller, visual creator, illustrator, storyboard artist
-# Stefanos Portfolio
+# STEFANOS VLASAKAKIS
 
-Illustrator / Visual Storyteller
+## Illustrator · Visual Storyteller · World Builder
 
-## Links
+---
 
-👉 [Blog](blog.html)  
-👉 [Portfolio](https://vlasakakis.art)
+> “I build worlds through images, fragments, and narrative silence.”
+
+---
+
+## ENTER
+
+🖼️ **Portfolio**  
+→ [View Selected Works](https://vlasakakis.art)
+
+📖 **Blog / Process**  
+→ [Read my Blog/Notes](blog/html)
+
+🌐 **Main Website**  
+→ [vlasakakis.art](https://vlasakakis.art)
+
+---
+
+## CURRENT PROJECT
+
+Working on a graphic novel universe combining mythology, memory, and cinematic storytelling.
+
+---
+
+## CONTACT
+
+✉️ available for collaborations / projects
+
